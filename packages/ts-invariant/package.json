@@ -28,7 +28,7 @@
     "test": "npm run build && npm run mocha"
   },
   "dependencies": {
-    "tslib": "^1.9.3"
+    "tslib": "^2.0.3"
   },
   "devDependencies": {
     "@types/invariant": "^2.2.29",
